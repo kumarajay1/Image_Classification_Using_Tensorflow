@@ -14,5 +14,7 @@ EX:
 
 edit the code in predict.py put your trained outputmodel.pb, your_lables.txt, your_testing_img.jpg 
 
-run the predict.py
+run predict.py
+
+python predict.py
 
